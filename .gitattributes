@@ -1,0 +1,3 @@
+# Set the text attribute for C and header files
+*.c text eol=lf
+*.h text eol=lf
