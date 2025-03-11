@@ -1,3 +1,7 @@
-# Set the text attribute for C and header files
+# Set the default text attribute for all files to use LF line endings
+* text eol=lf
+
+# Set the text attribute for C, header, and shell script files to use LF line endings
 *.c text eol=lf
 *.h text eol=lf
+*.sh text eol=lf
